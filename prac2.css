@@ -1,0 +1,271 @@
+#h1-2-2{
+    font-family: sans-serif;
+}
+
+#p2-2{
+    font-family: serif;
+
+}
+#del2-2{
+    color: gray;
+}
+#href2-2{
+    color: darkgreen;
+}
+#mark2-2{
+    color: darkblue;
+    background-color: pink;
+}
+#h2-2-2{
+    font-family: sans-serif;
+    text-align: left;
+}
+#pre2-2{
+    font-family: monospace;
+}
+#h3-2-3{
+    color: rgba(0, 0, 139, 80%);
+}
+
+pre.text-transparent{
+    color: rgba(0, 0, 0, 50%);
+}
+#t2-4{
+    background-image: url("cross.png");
+    background-color: #DCF5F5;
+}
+
+#h4-2-8{
+    font-family: Raleway;
+    font-style: italic;
+    text-decoration: underline;
+    font-weight: normal;
+}
+#t2-8{
+    background-image: url("cross.png");
+    background-color: #DCF5F5;
+    font-family: sans-serif;
+}
+div.centre{
+    text-align: center;
+    color: #bfcfd4;
+}
+#h1-2-8{
+    font-family: 'Raleway', sans-serif;
+}
+#h2-2-8{
+    font-family: 'Raleway', sans-serif;
+}
+#p2-8-1{
+    font-family: 'Noto Serif', serif;
+}
+#blockquote2-8{
+    font-family: 'Raleway';
+    line-height: 1.5;
+    word-spacing: 0.2em;
+    color: dimgray;
+    text-align: justify;
+}
+
+#t2-5{
+    background-image: url("cross.png");
+    background-color: #DCF5F5;
+}
+div.content {
+    background-color: white;
+}
+span.blue{
+    color: blue;
+}
+span.fancy{
+    font-family: cursive;
+}
+#t2-6{
+    background-image: url("cross.png");
+    background-color: #DCF5F5;
+}
+#content{
+    background-color: white;
+    border: 1px solid darkgray;
+    border-radius: 8px;
+}
+span.red-outline{
+    outline:solid;
+    outline-color: red;
+}
+span.red-border{
+    border:solid red;
+}
+div.red-border{
+    border:solid red;
+}
+div.blue-border{
+    border:solid blue;
+}
+#red-border1{
+    border:solid red;
+    border-bottom: none;
+    border-top: solid red;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+#blue-border1{
+    border: solid blue;
+    border-top: solid blue;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+#hr2-8{
+    color:#CFDFE4;
+}
+#p2-7-outer{
+    background-color: blue;
+    margin: 0%;
+    padding:0%;
+    border:solid red;
+}
+#p2-7-inner{
+    background-color: yellow;
+    text-align: right;
+    margin: 20px red;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: yellow;
+    padding: 12px;
+    border-width:700px;
+    border: 200px solid yellow;
+}
+#p2-7-1-outer{
+    border:solid red;
+    background: blue;
+    margin-top: 20px;
+    padding: 0%;
+}
+#p2-7-1-inner{
+    margin:solid red;
+    background-color: yellow;
+    text-align: right;
+    padding: 12px;
+    border: blue solid;
+    border-width: 400px;
+    border-top: 0px;
+    border-bottom: 0;
+}
+#div2-11{
+    background-color: white;
+    border: 1px solid darkgray;
+    border-radius: 8px;
+    float: left;
+    overflow: scroll;
+    height: 400px;
+}
+#div2-11-2{
+    background-color: white;
+    border: 1px solid darkgray;
+    border-radius: 8px;
+    overflow: hidden;
+    border: solid red;
+    width: 1000px;
+    height: 100px;
+    position:  100px bottom;
+}
+#t2-11{
+    background-image: url("cross.png");
+    background-color: #DCF5F5;
+    max-width: 600px;
+    align-content: center;
+    margin: 10em;
+    height: 400px;
+}
+#div2-11-3{
+    background-color: white;
+    border: 1px solid darkgray;
+    border-radius: 8px;
+}
+#table1{
+    border-collapse: collapse;
+    width: 500px;
+}
+#tr1{
+    background-color: darkslategrey;
+    color: white;
+    border-bottom:1px darkgray solid;
+}
+#tr2{
+    background-color: #F8F8F8;
+    color: Black;
+    border-bottom:1px darkgray solid;
+}
+#tr3{
+    background-color: White;
+    color: Black;
+    border-bottom:1px darkgray solid;
+}
+#tr4{
+    background-color: #F8F8F8;
+    color: Black;
+    border-bottom:1px darkgray solid;
+}
+#tr5{
+    background-color: White;
+    color: Black;
+    border-bottom:1px darkgray solid;
+}
+#table2{
+    border-collapse:collapse;
+    width: 500px;
+    background-color: palegoldenrod;
+    border: 1px black solid;
+};
+#tr6{
+    color: Black;
+    border: 1px solid black;
+}
+#tr7{
+    color: Black;
+    border: 1px solid black;
+}
+#tr8{
+    color: Black;
+    border: 1px solid black;
+}
+#tr69{
+    color: Black;
+    border: 1px solid black;
+}
+#tr10{
+    color: Black;
+    border: 1px solid black;
+}
+#tr11{
+    color: Black;
+    border: 1px solid black;
+}
+
+td.tr{
+    border: 1px solid black;
+}
+td.tr1{
+    border: 1px solid darkgray;
+    border-bottom: 1px darkgray solid;
+    background-color: white;
+}
+td.tr2{
+    background-color: white;
+    border: 1px solid darkgray;
+    border-bottom: 1px darkgray solid;
+    border-right: 1px solid black;
+}
+td.tr4{
+    border: 1px solid black;
+    background-color: white;
+}
+#cap1{
+    text-align: left;
+}
+#cap2{
+    text-align: left;
+}
