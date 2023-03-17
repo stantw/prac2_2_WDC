@@ -269,3 +269,23 @@ td.tr4{
 #cap2{
     text-align: left;
 }
+#ul2-9{
+    background-color: darkgray;
+    color: white;
+    list-style-type: none;
+    overflow: hidden; 
+}
+li.li{
+    float: left;
+    display: block;
+    padding: 8px;
+}
+li.li:hover{
+        background-color: lightgray;
+}
+ol.ol{
+    list-style-type: lower-roman;
+}
+ul.ul{
+    list-style-type: square;
+}
